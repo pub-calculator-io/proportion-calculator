@@ -2,7 +2,7 @@
 Contributors: calculatorio
 Tags: 
 Requires at least: 5.0
-Tested up to: 6.3.0
+Tested up to: 6.4.0
 Stable tag: 1.0.0
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
@@ -12,6 +12,12 @@ The ratio calculator finds a missing ratio number based on the given proportion.
 == Description ==
 
 The ratio calculator finds a missing ratio number based on the given proportion. The calculator can also scale ratios, enlarging or shrinking them.
+
+__Shortcode__
+
+Use the Proportion Calculator  shortcode:
+
+`[ci_proportion_calculator]`
 
 Libraries in use:
 1. https://mathjs.org/
@@ -25,8 +31,11 @@ Libraries in use:
 
 1. Upload the /ci_proportion_calculator/ folder to the /wp-content/plugins/ directory.
 2. Activate the [Proportion Calculator ](https://www.calculator.io/proportion-calculator/ "Proportion Calculator  Homepage") plugin through the "Plugins" menu in WordPress.
-3. Configure your settings via Appearance > Widgets > Proportion Calculator .
-4. And you're good to go!
+
+== Usage ==
+* Add the shortcode `[ci_proportion_calculator]` to your page or post and configure default mortgage parameters.
+* If you are using widgets, just add the Proportion Calculator  to the sidebar through the `Appearance -> Widgets -> Proportion Calculator ` menu in WordPress.
+* Add the following code: `<?php display_ci_proportion_calculator(); ?>` to your template where you would like the Proportion Calculator  to appear.
 
 == Screenshots ==
 1. The Proportion Calculator  Input Form.
