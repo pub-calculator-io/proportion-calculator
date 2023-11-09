@@ -13,6 +13,8 @@ The ratio calculator finds a missing ratio number based on the given proportion.
 
 The ratio calculator finds a missing ratio number based on the given proportion. The calculator can also scale ratios, enlarging or shrinking them.
 
+[Proportion Calculator  Homepage](https://www.calculator.io/proportion-calculator/ "Proportion Calculator  Homepage")
+
 __Shortcode__
 
 Use the Proportion Calculator  shortcode:
