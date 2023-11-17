@@ -1,6 +1,6 @@
 === Proportion Calculator  by Calculator.iO ===
 Contributors: calculatorio
-Tags: 
+Tags: proportion calculator, ratio number finding, ratio scaling, mathematical ratio comparison, expressing ratios, ratio enlargement, ratio shrinkage, ratio to fraction conversion, proportion equations, ratio value calculation
 Requires at least: 5.0
 Tested up to: 6.4.0
 Stable tag: 1.0.0
