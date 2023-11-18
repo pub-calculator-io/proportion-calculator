@@ -1,4 +1,4 @@
-# Proportion Calculator  WordPress Widget by [Calculator.iO](https://www.calculator.io/ "Calculator.iO Homepage")
+# Proportion Calculator  Widget for WordPress
 
 The ratio calculator finds a missing ratio number based on the given proportion. The calculator can also scale ratios, enlarging or shrinking them.
 
