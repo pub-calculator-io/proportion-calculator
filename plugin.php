@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Proportion Calculator  by www.calculator.io
+Plugin Name: CI Proportion calculator
 Plugin URI: https://www.calculator.io/proportion-calculator/
 Description: The ratio calculator finds a missing ratio number based on the given proportion. The calculator can also scale ratios, enlarging or shrinking them.
 Version: 1.0.0
