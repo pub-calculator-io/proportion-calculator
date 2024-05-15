@@ -1,10 +1,10 @@
 function calculate(){
 
   // 1. init & validate
-  const aNum = input.get('fraction_a_top').natural().raw();
-  const aDenom = input.get('fraction_a_bottom').natural().raw();
-  let bNum = input.get('fraction_b_top').optional().natural().raw();
-  let bDenom = input.get('fraction_b_bottom').optional().natural().raw();
+  const aNum = input.get('fraction_a_num').natural().raw();
+  const aDenom = input.get('fraction_a_denom').natural().raw();
+  let bNum = input.get('fraction_b_num').optional().natural().raw();
+  let bDenom = input.get('fraction_b_denom').optional().natural().raw();
   let isEqual;
   input.silent = false;
   if(!input.valid()) return;
@@ -33,8 +33,8 @@ function calculate(){
   // 3. output
   _('aNum').innerText = aNum;
   _('aDenom').innerText = aDenom;
-  _('bNum').innerText = _('fraction_b_top').value = bNum;
-  _('bDenom').innerText = _('fraction_b_bottom').value = bDenom;
+  _('bNum').innerText = _('fraction_b_num').value = bNum;
+  _('bDenom').innerText = _('fraction_b_denom').value = bDenom;
   _('result').classList[isEqual===undefined?'add':'remove']('hidden');
   _('result').innerHTML = `is <b>${isEqual}</b>`;
 

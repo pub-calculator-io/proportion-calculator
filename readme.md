@@ -3,7 +3,6 @@
 The ratio calculator finds a missing ratio number based on the given proportion. The calculator can also scale ratios, enlarging or shrinking them.
 
 ![Proportion Calculator  Input Form](/assets/images/screenshot-1.png "Proportion Calculator  Input Form")
-![Proportion Calculator  Calculation Results](/assets/images/screenshot-2.png "Proportion Calculator  Calculation Results")
 
 ## Installation
 

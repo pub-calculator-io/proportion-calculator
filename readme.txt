@@ -24,7 +24,6 @@ Add the following code to your template where you would like the Proportion Calc
 == Screenshots ==
 
 1. The Proportion Calculator  Input Form.
-2. The Proportion Calculator  Calculation Results.
 
 == Installation ==
 
