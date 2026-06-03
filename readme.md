@@ -1,6 +1,6 @@
 # Proportion Calculator  Widget for WordPress
 
-The ratio calculator finds a missing ratio number based on the given proportion. The calculator can also scale ratios, enlarging or shrinking them.
+Solve missing ratio values instantly with our free Proportion Calculator. Easily scale, enlarge, or shrink proportions and solve complex ratio equations.
 
 ![Proportion Calculator  Input Form](/assets/images/screenshot-1.png "Proportion Calculator  Input Form")
 
@@ -11,8 +11,8 @@ The ratio calculator finds a missing ratio number based on the given proportion.
 3. Activate the [Proportion Calculator ](https://www.calculator.io/proportion-calculator/ "Proportion Calculator  Homepage") plugin through the "Plugins" menu in WordPress.
 
 ## Usage
-* Add the shortcode `[ci_proportion_calculator]` to your page, post or sidebar.
-* Or add the following code: `<?php display_ci_proportion_calculator(); ?>` to your template where you would like the Proportion Calculator  to appear.
+* Add the shortcode `[calcio_proportion_calculator]` to your page, post or sidebar.
+* Or add the following code: `<?php display_calcio_proportion_calculator(); ?>` to your template where you would like the Proportion Calculator  to appear.
 
 ## Libraries in Use
 1. https://mathjs.org/
